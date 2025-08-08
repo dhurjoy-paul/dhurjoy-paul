@@ -35,12 +35,24 @@
 
 
 <h1> <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="55"> About Me</h1>
+I am Dhurjoy Paul, a MERN stack developer. Besides being a developer, I am pursuing a BSc in Statistics at the National University. Now I am looking for freelance jobs and internships. 
+<br/>
+I aim to apply my skills in both development and statistics to real-world projects that challenge me and enhance my expertise.
+<br/> <br/>
+🌍 I speak <strong>Bengali, English & Hindi</strong> <br/>
+🗺️ Based in <strong>Chattogram, Bangladesh</strong>
+
+<hr/>
+
+<h1> <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="55"> Current Activities</h1>
+
+
+
 <div style="padding-left: 12px;">
+<p>🎯 I'm learning <strong>NEXT.JS & TypeScript</strong></p>
 <p>👯 I’m looking to collaborate on a <strong>full-stack MERN app</strong></p>
 <p>🤝 I’m looking for help with <strong>open-source MERN stack projects, real-world React apps!</strong></p>
 <p>💬 Ask me about <strong>how to get started with MERN stack / web development</strong></p>
-<p>🌍 I speak <strong>Bengali & English</strong></p>
-<p>🗺️ Based in <strong>Chattogram, Bangladesh</strong></p>
 <p>🚀 I’m open to <strong>freelance projects</strong></p>
 <p>🎯 <strong>2025 Goals</strong></p>
 <ul>
