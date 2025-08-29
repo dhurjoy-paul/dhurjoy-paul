@@ -11,53 +11,22 @@
   <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60" alt="Handshake GIF">
   Connect With Me
 </h1>
-
-<!-- Social Icons Row -->
-<div style="display: flex; gap: 20px; align-items: center; margin-top: 10px;">
-
-  <!-- Portfolio -->
-  <a href="https://dhurjoy-paul.web.app" target="_blank" rel="noopener noreferrer"
-     aria-label="Portfolio of Dhurjoy Paul" title="Portfolio of Dhurjoy Paul">
-    <img src="https://res.cloudinary.com/dnxdrwrom/image/upload/v1756468458/globe_iznwwb.png" alt="Portfolio Website" width="35" height="35" />
-  </a>
-
-  <!-- LinkedIn -->
-  <a href="https://www.linkedin.com/in/dhurjoy-paul" target="_blank" rel="noopener noreferrer"
-     aria-label="Connect with Dhurjoy Paul on LinkedIn" title="Dhurjoy Paul on LinkedIn">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"
-         alt="LinkedIn Logo" width="35" height="35" />
-  </a>
-
-  <!-- Gmail -->
-  <a href="mailto:dhurjoypaul012@gmail.com" target="_blank" rel="noopener noreferrer"
-     aria-label="Email of Dhurjoy Paul" title="Email of Dhurjoy Paul">
-    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Gmail Logo" width="35" height="35" />
-  </a>
-
-  <!-- Facebook -->
-  <a href="https://www.facebook.com/dhurjoy.dev" target="_blank" rel="noopener noreferrer"
-     aria-label="Connect with Dhurjoy Paul on Facebook" title="Dhurjoy Paul on Facebook">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg"
-         alt="Facebook Logo" width="35" height="35" />
-  </a>
-
-  <!-- Twitter / X -->
-  <a href="https://x.com/PaulDhurjoy" target="_blank" rel="noopener noreferrer"
-     aria-label="Follow Dhurjoy Paul on Twitter (X)" title="Dhurjoy Paul on Twitter (X)">
-    <img src="https://github.com/user-attachments/assets/c768dd59-9b32-473e-bbe3-7b7a68b1e670"
-         alt="Twitter X Logo" width="35" height="35" />
-  </a>
-
-</div>
-<!-- End Contact Section -->
 <p align="left">
-  <a href="https://dhurjoy-paul.web.app"><img src="https://res.cloudinary.com/dnxdrwrom/image/upload/v1756468458/globe_iznwwb.png" width="40"/></a>
-  <a href="https://www.linkedin.com/in/dhurjoy-paul"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40"/></a>
-  <a href="mailto:dhurjoypaul012@gmail.com"><img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="40"/></a>
-  <a href="https://www.facebook.com/dhurjoy.dev"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" width="40"/></a>
-  <a href="https://x.com/PaulDhurjoy"><img src="https://github.com/user-attachments/assets/c768dd59-9b32-473e-bbe3-7b7a68b1e670" width="40"/></a>
+  <a href="https://dhurjoy-paul.web.app" target="_blank" rel="noopener noreferrer"
+     aria-label="Portfolio of Dhurjoy Paul" title="Portfolio of Dhurjoy Paul"><img src="https://res.cloudinary.com/dnxdrwrom/image/upload/v1756468458/globe_iznwwb.png"
+     alt="Portfolio Website" width="40"/></a>
+  <a href="https://www.linkedin.com/in/dhurjoy-paul"
+  target="_blank" rel="noopener noreferrer"
+     aria-label="Connect with Dhurjoy Paul on LinkedIn" title="Dhurjoy Paul on LinkedIn"><img src="https://res.cloudinary.com/dnxdrwrom/image/upload/v1756469521/linkedin_r22miv.png" alt="LinkedIn Logo" width="40"/></a>
+  <a href="mailto:dhurjoypaul012@gmail.com" target="_blank" rel="noopener noreferrer"
+     aria-label="Email of Dhurjoy Paul" title="Email of Dhurjoy Paul"><img src="https://res.cloudinary.com/dnxdrwrom/image/upload/v1756470525/gmail_ehdeik.png"
+     alt="Gmail Logo" width="40"/></a>
+  <a href="https://www.facebook.com/dhurjoy.dev"
+  target="_blank" rel="noopener noreferrer"
+     aria-label="Connect with Dhurjoy Paul on Facebook" title="Dhurjoy Paul on Facebook"><img src="https://res.cloudinary.com/dnxdrwrom/image/upload/v1756469688/facebook_z7vcdm.png" alt="Facebook Logo" width="40"/></a>
+  <a href="https://x.com/PaulDhurjoy" target="_blank" rel="noopener noreferrer"
+     aria-label="Follow Dhurjoy Paul on Twitter (X)" title="Dhurjoy Paul on Twitter (X)"><img src="https://res.cloudinary.com/dnxdrwrom/image/upload/v1756469488/X_zhpdsf.png" alt="Twitter X Logo" width="40"/></a>
 </p>
-
 
 <!-- About me section -->
 <h1> <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="55"> About Me</h1>
