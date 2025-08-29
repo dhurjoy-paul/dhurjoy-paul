@@ -12,42 +12,45 @@
   Connect With Me
 </h1>
 
+<!-- Social Icons Row -->
 <div style="display: flex; gap: 20px; align-items: center; margin-top: 10px;">
+
   <!-- Portfolio -->
-<a href="https://dhurjoy-paul.web.app" target="_blank" rel="noopener noreferrer"
+  <a href="https://dhurjoy-paul.web.app" target="_blank" rel="noopener noreferrer"
      aria-label="Portfolio of Dhurjoy Paul" title="Portfolio of Dhurjoy Paul">
-<img src="https://res.cloudinary.com/dnxdrwrom/image/upload/v1756468458/globe_iznwwb.png" alt="Portfolio Website" width="35" height="35" />
-</a>
+    <img src="https://res.cloudinary.com/dnxdrwrom/image/upload/v1756468458/globe_iznwwb.png" alt="Portfolio Website" width="35" height="35" />
+  </a>
 
   <!-- LinkedIn -->
-<a href="https://www.linkedin.com/in/dhurjoy-paul" target="_blank" rel="noopener noreferrer"
+  <a href="https://www.linkedin.com/in/dhurjoy-paul" target="_blank" rel="noopener noreferrer"
      aria-label="Connect with Dhurjoy Paul on LinkedIn" title="Dhurjoy Paul on LinkedIn">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"
          alt="LinkedIn Logo" width="35" height="35" />
-</a>
+  </a>
 
   <!-- Gmail -->
-<a href="mailto:dhurjoypaul012@gmail.com" target="_blank" rel="noopener noreferrer"
+  <a href="mailto:dhurjoypaul012@gmail.com" target="_blank" rel="noopener noreferrer"
      aria-label="Email of Dhurjoy Paul" title="Email of Dhurjoy Paul">
-<img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Gmail Logo" width="35" height="35" />
-</a>
+    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Gmail Logo" width="35" height="35" />
+  </a>
 
   <!-- Facebook -->
-<a href="https://www.facebook.com/dhurjoy.dev" target="_blank" rel="noopener noreferrer"
+  <a href="https://www.facebook.com/dhurjoy.dev" target="_blank" rel="noopener noreferrer"
      aria-label="Connect with Dhurjoy Paul on Facebook" title="Dhurjoy Paul on Facebook">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg"
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg"
          alt="Facebook Logo" width="35" height="35" />
-</a>
+  </a>
 
   <!-- Twitter / X -->
-<a href="https://x.com/PaulDhurjoy" target="_blank" rel="noopener noreferrer"
+  <a href="https://x.com/PaulDhurjoy" target="_blank" rel="noopener noreferrer"
      aria-label="Follow Dhurjoy Paul on Twitter (X)" title="Dhurjoy Paul on Twitter (X)">
-<img src="https://github.com/user-attachments/assets/c768dd59-9b32-473e-bbe3-7b7a68b1e670"
+    <img src="https://github.com/user-attachments/assets/c768dd59-9b32-473e-bbe3-7b7a68b1e670"
          alt="Twitter X Logo" width="35" height="35" />
-</a>
+  </a>
 
 </div>
 <!-- End Contact Section -->
+
 
 <!-- About me section -->
 <h1> <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="55"> About Me</h1>
