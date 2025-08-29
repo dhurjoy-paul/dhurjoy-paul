@@ -50,6 +50,13 @@
 
 </div>
 <!-- End Contact Section -->
+<p align="left">
+  <a href="https://dhurjoy-paul.web.app"><img src="https://res.cloudinary.com/dnxdrwrom/image/upload/v1756468458/globe_iznwwb.png" width="40"/></a>
+  <a href="https://www.linkedin.com/in/dhurjoy-paul"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40"/></a>
+  <a href="mailto:dhurjoypaul012@gmail.com"><img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="40"/></a>
+  <a href="https://www.facebook.com/dhurjoy.dev"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" width="40"/></a>
+  <a href="https://x.com/PaulDhurjoy"><img src="https://github.com/user-attachments/assets/c768dd59-9b32-473e-bbe3-7b7a68b1e670" width="40"/></a>
+</p>
 
 
 <!-- About me section -->
