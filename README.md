@@ -1,53 +1,69 @@
 <img 
-  src="https://github.com/user-attachments/assets/6ec2fe1b-5635-4f8b-bac4-aa1caa2f0f6b" 
-  alt="Dhurjoy Paul - GitHub Banner" 
+  src="https://github.com/user-attachments/assets/6ec2fe1b-5635-4f8b-bac4-aa1caa2f0f6b"
+  alt="Dhurjoy Paul - MERN Stack Developer GitHub Banner" 
   style="width: 100%; height: auto;" 
 />
+
 <hr/>
 
+<!-- Contact Section -->
+<h1>
+  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60" alt="Handshake GIF">
+  Connect With Me
+</h1>
 
-<h1> <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> Connect With Me</h1>
-<table>
-  <tr>
-    <td>
-      <a href="https://www.linkedin.com/in/dhurjoy-paul" target="_blank" rel="noopener noreferrer">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="30" height="30" />
-      </a>
-    </td>
-    <td>
-      <a href="mailto:dhurjoypaul012@gmail.com" target="_blank" rel="noopener noreferrer">
-        <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Gmail" width="30" height="30" />
-      </a>
-    </td>
-    <td>
-      <a href="https://www.facebook.com/dhurjoy.dev" target="_blank" rel="noopener noreferrer">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" alt="Facebook" width="30" height="30" />
-      </a>
-    </td>
-    <td>
-      <a href="https://x.com/PaulDhurjoy" target="_blank" rel="noopener noreferrer">
-        <img src="https://github.com/user-attachments/assets/c768dd59-9b32-473e-bbe3-7b7a68b1e670" alt="X (Twitter)" width="35" height="35" />
-      </a>
-    </td>
-  </tr>
-</table>
-<hr/>
+<div style="display: flex; gap: 20px; align-items: center; margin-top: 10px;">
+  <!-- Portfolio -->
+<a href="https://dhurjoy-paul.web.app" target="_blank" rel="noopener noreferrer"
+     aria-label="Portfolio of Dhurjoy Paul" title="Portfolio of Dhurjoy Paul">
+<img src="https://res.cloudinary.com/dnxdrwrom/image/upload/v1756468458/globe_iznwwb.png" alt="Portfolio Website" width="35" height="35" />
+</a>
 
+  <!-- LinkedIn -->
+<a href="https://www.linkedin.com/in/dhurjoy-paul" target="_blank" rel="noopener noreferrer"
+     aria-label="Connect with Dhurjoy Paul on LinkedIn" title="Dhurjoy Paul on LinkedIn">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"
+         alt="LinkedIn Logo" width="35" height="35" />
+</a>
 
+  <!-- Gmail -->
+<a href="mailto:dhurjoypaul012@gmail.com" target="_blank" rel="noopener noreferrer"
+     aria-label="Email of Dhurjoy Paul" title="Email of Dhurjoy Paul">
+<img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Gmail Logo" width="35" height="35" />
+</a>
+
+  <!-- Facebook -->
+<a href="https://www.facebook.com/dhurjoy.dev" target="_blank" rel="noopener noreferrer"
+     aria-label="Connect with Dhurjoy Paul on Facebook" title="Dhurjoy Paul on Facebook">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg"
+         alt="Facebook Logo" width="35" height="35" />
+</a>
+
+  <!-- Twitter / X -->
+<a href="https://x.com/PaulDhurjoy" target="_blank" rel="noopener noreferrer"
+     aria-label="Follow Dhurjoy Paul on Twitter (X)" title="Dhurjoy Paul on Twitter (X)">
+<img src="https://github.com/user-attachments/assets/c768dd59-9b32-473e-bbe3-7b7a68b1e670"
+         alt="Twitter X Logo" width="35" height="35" />
+</a>
+
+</div>
+<!-- End Contact Section -->
+
+<!-- About me section -->
 <h1> <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="55"> About Me</h1>
-I am Dhurjoy Paul, a MERN stack developer. Besides being a developer, I am pursuing a BSc in Statistics at the National University. Now I am looking for freelance jobs and internships. 
+I am <strong>Dhurjoy Paul</strong>, a passionate <strong>MERN Stack Web Developer</strong> from Bangladesh.  
+I specialize in building full-stack applications with <strong>React, Next.js, Node.js, Express, MongoDB, Firebase, and Tailwind CSS</strong>.  
+Currently pursuing my <strong>BSc in Statistics</strong> at the National University, I am eager to apply my skills in <strong>freelance projects, internships, and open-source contributions</strong>.
 <br/>
-I aim to apply my skills in both development and statistics to real-world projects that challenge me and enhance my expertise.
+I aim to apply both my development and statistics skills to real-world projects that challenge me and enhance my expertise.
 <br/> <br/>
 🌍 I speak <strong>Bengali, English & Hindi</strong> <br/>
 🗺️ Based in <strong>Chattogram, Bangladesh</strong>
-
 <hr/>
+<!-- end of About me section -->
 
+<!-- Activities section -->
 <h1> <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="55"> Current Activities</h1>
-
-
-
 <div style="padding-left: 12px;">
 <p>🎯 I'm learning <strong>NEXT.JS & TypeScript</strong></p>
 <p>👯 I’m looking to collaborate on a <strong>full-stack MERN app</strong></p>
@@ -62,7 +78,9 @@ I aim to apply my skills in both development and statistics to real-world projec
 </ul>
 </div>
 <hr/>
- 
+<!-- end of Activities section -->
+
+<!-- Tech section -->
 <h1> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="60"> Tech Stacks</h1>
 <table>
   <tr>
@@ -117,9 +135,11 @@ I aim to apply my skills in both development and statistics to real-world projec
   </tr>
 </table>
 <hr/>
+<!-- end of tech section -->
 
+<!-- stats section -->
 
-# 📊 GitHub Stats:   <img src="https://komarev.com/ghpvc/?username=DhurjoyPaul&label=Profile%20Views&color=blue&style=flat" alt="profile views"/>
+# 📊 GitHub Stats: <img src="https://komarev.com/ghpvc/?username=DhurjoyPaul&label=Profile%20Views&color=blue&style=flat" alt="profile views"/>
 
 <p align="center" >
   <a href="https://github.com/anuraghazra/github-readme-stats"> 
@@ -142,3 +162,9 @@ I aim to apply my skills in both development and statistics to real-world projec
 <p align="center">
   <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats" />
 </p>
+
+---
+
+### 🔎 Keywords
+
+Dhurjoy Paul | Web Developer | MERN Stack Developer | React Developer | Node.js | Next.js | MongoDB | Full-Stack Developer | Web Developer from Bangladesh
