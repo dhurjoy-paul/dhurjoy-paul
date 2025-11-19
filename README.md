@@ -1,6 +1,7 @@
+  <!-- src="https://github.com/user-attachments/assets/6ec2fe1b-5635-4f8b-bac4-aa1caa2f0f6b" -->
 <img 
-  src="https://github.com/user-attachments/assets/6ec2fe1b-5635-4f8b-bac4-aa1caa2f0f6b"
-  alt="Dhurjoy Paul - MERN Stack Developer GitHub Banner" 
+  src="https://github.com/user-attachments/assets/3e78b7fb-34a6-4cfc-bf62-1ae8849b257b"
+  alt="Dhurjoy Paul - Web Developer - GitHub Banner" 
   style="width: 100%; height: auto;" 
 />
 
@@ -30,7 +31,7 @@
 
 <!-- About me section -->
 <h1> <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="55"> About Me</h1>
-I am <strong>Dhurjoy Paul</strong>, a passionate <strong>MERN Stack Web Developer</strong> from Bangladesh.  
+I am <strong>Dhurjoy Paul</strong>, a passionate <strong>Web Developer</strong> from Bangladesh.  
 I specialize in building full-stack applications with <strong>React, Next.js, Node.js, Express, MongoDB, Firebase, and Tailwind CSS</strong>.  
 Currently pursuing my <strong>BSc in Statistics</strong> at the National University, I am eager to apply my skills in <strong>freelance projects, internships, and open-source contributions</strong>.
 <br/>
@@ -45,14 +46,14 @@ I aim to apply both my development and statistics skills to real-world projects 
 <h1> <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="55"> Current Activities</h1>
 <div style="padding-left: 12px;">
 <p>🎯 I'm learning <strong>NEXT.JS & TypeScript</strong></p>
-<p>👯 I’m looking to collaborate on a <strong>full-stack MERN app</strong></p>
-<p>🤝 I’m looking for help with <strong>open-source MERN stack projects, real-world React apps!</strong></p>
-<p>💬 Ask me about <strong>how to get started with MERN stack / web development</strong></p>
+<p>👯 I’m looking to collaborate on a <strong>full-stack web app</strong></p>
+<p>🤝 I’m looking for help with <strong>open-source web projects, real-world React apps!</strong></p>
+<p>💬 Ask me about <strong>how to get started with web development</strong></p>
 <p>🚀 I’m open to <strong>freelance projects</strong></p>
 <p>🎯 <strong>2025 Goals</strong></p>
 <ul>
   <li>Contribute to 3 open-source projects</li>
-  <li>Build a real-time MERN chat app</li>
+  <li>Build a real-time chat app</li>
   <li>Land my first internship or freelance gig</li>
 </ul>
 </div>
