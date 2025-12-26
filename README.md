@@ -129,8 +129,8 @@ I aim to apply both my development and statistics skills to real-world projects 
 <br />
 
 <p align="center" >
-  <a href="https://github.com/anuraghazra/github-readme-stats"> 
-    <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhurjoy-paul&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact"/>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img  src="https://github-readme-stats-psi-olive-85.vercel.app/api/top-langs/?username=dhurjoy-paul&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact"/>
   </a>
 </p>
 <br />
