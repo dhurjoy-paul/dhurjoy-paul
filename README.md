@@ -83,8 +83,6 @@ I aim to apply both my development and statistics skills to real-world projects 
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" />
       &nbsp;
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" />
-      &nbsp;
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40" />
     </td>
   </tr>
   <tr>
@@ -106,6 +104,8 @@ I aim to apply both my development and statistics skills to real-world projects 
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40" />
       &nbsp;
       <img src="https://github.com/user-attachments/assets/81246638-bdc4-428b-9da5-41b631711ee2" width="40" />
+      &nbsp;
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg" width="40" />
       &nbsp;
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="40" />
       &nbsp;
