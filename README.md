@@ -63,8 +63,8 @@ I aim to apply both my development and statistics skills to real-world projects 
 <br/>
 <h3><b><i>&nbsp;<img width="26" src="https://images.emojiterra.com/google/noto-emoji/animated-emoji/1f426-1f525.gif">&nbsp; 2026 Goals:</i></b></h3>
 
-&nbsp;&nbsp;&nbsp;&nbsp;<img width="18" src="https://images.emojiterra.com/google/noto-emoji/animated-emoji/1f94b.gif">&nbsp;&nbsp; Gain more knowledge about <i><b>Laravel</b></i><br/>
-&nbsp;&nbsp;&nbsp;&nbsp;<img width="18" src="https://images.emojiterra.com/google/noto-emoji/animated-emoji/1fae7.gif">&nbsp;&nbsp; <i>Coming more... </i>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;➺&nbsp;&nbsp; Gain more knowledge about <i><b>Laravel</b></i><br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;➺&nbsp;&nbsp; <i>Coming more... </i>
 
 <br/>
 <h3>&nbsp;<img width="21" src="https://images.emojiterra.com/google/noto-emoji/animated-emoji/1f3c6.gif">&nbsp;&nbsp;<i>2025 Goal Achieved</h3>
