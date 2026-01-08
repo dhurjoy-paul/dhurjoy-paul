@@ -34,10 +34,10 @@
 <!-- About me section -->
 <h1> <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="55"> About Me</h1>
 I am <strong>Dhurjoy Paul</strong>, a passionate <strong>Web Developer</strong> from Bangladesh.  
-I specialize in building full-stack applications with <strong>React, Next.js, Node.js, Express, MongoDB, Firebase, and Tailwind CSS</strong>.  
+<!-- I specialize in building full-stack applications with <strong>React, Next.js, Node.js, Express, MongoDB, Firebase, and Tailwind CSS</strong>.  
 Currently pursuing my <strong>BSc in Statistics</strong> at the National University, I am eager to apply my skills in <strong>freelance projects, internships, and open-source contributions</strong>.
 <br/>
-I aim to apply both my development and statistics skills to real-world projects that challenge me and enhance my expertise.
+I aim to apply both my development and statistics skills to real-world projects that challenge me and enhance my expertise. -->
 <br/> <br/>
 
 &nbsp;&nbsp;&nbsp;&nbsp;<img width="18" src="https://images.emojiterra.com/google/noto-emoji/animated-emoji/1f60e.gif">&nbsp;&nbsp; I speak &nbsp;<i><strong>Bengali, English &amp; Hindi</strong></i> <br/>
@@ -141,21 +141,18 @@ I aim to apply both my development and statistics skills to real-world projects 
 <hr/>
 <!-- end of tech section -->
 
-<!-- stats section -->
 
+<!-- stats section -->
 # 📊 GitHub Stats: <img src="https://komarev.com/ghpvc/?username=DhurjoyPaul&label=Profile%20Views&color=blue&style=flat" alt="profile views"/>
+<!-- <a href="https://github.com/anuraghazra/github-readme-stats">  -->
 
 <p align="center" >
-  <a href="https://github.com/anuraghazra/github-readme-stats"> 
-    <img src="https://nirzak-streak-stats.vercel.app/?user=dhurjoy-paul&theme=radical&hide_border=false"/>
-  </a>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=dhurjoy-paul&theme=radical&hide_border=false"/>
 </p>
 <br />
 
 <p align="center" >
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats-psi-olive-85.vercel.app/api/top-langs/?username=dhurjoy-paul&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact&langs_count=10"/>
-  </a>
+  <img src="https://github-readme-stats-psi-olive-85.vercel.app/api/top-langs/?username=dhurjoy-paul&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact&langs_count=10"/>
 </p>
 <br />
 
